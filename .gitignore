@@ -1,0 +1,16 @@
+*~
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+*.opt
+*.run
+*_[tjvb].mli
+*_[tjvb].ml
+log
+*.log
